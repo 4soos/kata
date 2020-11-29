@@ -1,2 +1,2 @@
 # kata
-for take notes from codewars
+Making notes for codewars
