@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+**/target
+**/*./idea
+/rust/solutions/.idea/
+rust/solutions/.idea/
+
+**.xml
+**.iml
+
+**/*.lock
+.idea
