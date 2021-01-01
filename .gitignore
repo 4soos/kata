@@ -61,3 +61,5 @@ rust/solutions/.idea/
 
 **/*.lock
 .idea
+
+.vscode
